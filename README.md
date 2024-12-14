@@ -1,2 +1,2 @@
 # first-demo
-my first project
+github my first project
